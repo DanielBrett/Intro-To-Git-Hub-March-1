@@ -2,7 +2,10 @@
 
 What is your favorite animal?
 
+
 - I love cats
+- HEDGEHOGS BABY!!!
+- Alligator 
 - 
 - 
 - 
