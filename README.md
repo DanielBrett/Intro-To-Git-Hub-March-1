@@ -3,6 +3,7 @@
 What is your favorite animal?
 
 
+- Zebra
 - I love cats
 - HEDGEHOGS BABY!!!
 - Alligator 
