@@ -1,5 +1,3 @@
-# Intro-To-Git-Hub-March-1
+# Intro-To-Git-Hub-March-8
 
-More cool text
-
-This is a great repository!  Amazing!
+What is your favorite animal?
