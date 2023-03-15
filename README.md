@@ -1,15 +1,19 @@
-# Intro-To-Git-Hub-March-8
+# Intro-To-Git-Hub-March-15
 
-What is your favorite animal?
+## This is two hashtags
+
+### This is three hashtags
+
+*What* is your **favorite animal**?
 
 
-- Cheetah
+- [Cheetah](https://en.wikipedia.org/wiki/Cheetah)
 - Dog
 - Zebra
 - I love cats
 - HEDGEHOGS BABY!!!
 - Alligator 
-- 
-- 
-- 
 - Pig
+
+
+![Daniel with Lizard on shoulder](Daniel_Headshot_Library_Reduced.jpg)
