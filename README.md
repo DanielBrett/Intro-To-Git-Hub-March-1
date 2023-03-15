@@ -16,4 +16,4 @@
 - Pig
 
 
-![Daniel with Lizard on shoulder](Daniel_Headshot_Library_Reduced.jpg)
+[![Daniel with Lizard on shoulder](Daniel_Headshot_Library_Reduced.jpg)](https://en.wikipedia.org/wiki/Cheetah)
