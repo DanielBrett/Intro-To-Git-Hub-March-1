@@ -14,6 +14,7 @@
 - HEDGEHOGS BABY!!!
 - Alligator 
 - Pig
+- Lizard
 
 
 [![Daniel with Lizard on shoulder](Daniel_Headshot_Library_Reduced.jpg)](https://en.wikipedia.org/wiki/Cheetah)
