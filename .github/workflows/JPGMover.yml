@@ -19,12 +19,12 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Move .jpg files
-        run: mv *.jpg Images
+        run: mv *.jpg Images/
 
       - name: Commit changes
         run: |
-          git config user.name 'DanielBrett'
-          git config user.email 'dbrett@brocku.ca'
+          git config --global user.name "DanielBrett"
+          git config --global user.email "dbrett@brocku.ca"
           git add .
           git commit -m "JPG Mover Activated!"
           git push
