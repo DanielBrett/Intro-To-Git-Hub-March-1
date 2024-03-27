@@ -10,6 +10,9 @@ on:
     paths:
       '**.jpg'
 
+permissions:
+  contents: write
+
 jobs:
   move-jpg:
     runs-on: ubuntu-latest
